@@ -4,10 +4,50 @@
 </a>
 
 ## About me
-I'm currently studying Full-Stack Web Development in Holberton, San Juan, Puerto Rico. I love making and playing with algorithms / puzzles. I want to collaborate on things that are innovative, inspire people, and help God.
-## Tools I'm Confident In
-<img src=https://creazilla-store.fra1.digitaloceanspaces.com/cliparts/7829302/c-programming-language-clipart-md.png alt=C width=100/>
-<img src=https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Python_logo_01.svg/600px-Python_logo_01.svg.png?20210503135843 alt=Python width=100/>
+I studied Software Development and Full Stack Web Development at Holberton, San Juan, Puerto Rico. I have a passion for problem solving, algorithms and math, and have spent most of my life studying and perfecting my math skills.
+Recently, my love for math and algorithms led me to become a Python & Pygame developer as a hobby (2019), then learn more about software development as a whole in the internet, and then enroll in Holberton to learn software development in general for 9 months, followed by 9 months of Full Stack Web Development (2022-2024).
 
-## All of the Tools I've Used
-Python3, C, Git, GitHub, Data Structures & Algorithms, HTML, CSS, JS, Jquery, REST API, Ubuntu Linux, Linux Shell
+## Skills and Interests
+### Fully Bilingual in Spanish-English.
+### Strong Programming Knowledge
+- Python
+- C
+- HTML
+- CSS
+- JS
+- Linux Shell
+- GitHub
+- Git
+- Vim
+- VsCode.
+### Other Programming Tools:
+- Figma
+- Bootstrap
+- JQuery
+- Flask
+- Basic/Session Authentication
+- basic MySQL
+- ES6
+- NodeJS
+- Webpack
+- React
+- Redux
+- Dart
+- Flutter
+- Firebase
+### Technical Knowledge
+- Data Structures & Algorithms
+- Algorithm Optimization
+- C Memory Management (The Stack and The Heap)
+- Very Basic x86 ASM
+- Object Oriented Programming
+- Edge Cases and Pitfalls
+- Basic Unit Testing
+- REST API
+- Basic Password Storage
+### Non-Technical Skills
+- Problem Solver
+- Logical and Analytical
+- Team Player
+- Passionate About Learning, Sharing Knowledge and Helping my Team, and building the best software possible
+- Open to new experiences
