@@ -3,6 +3,8 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=LinkedIn style="margin-bottom: 5px;" />
 </a>
 
+Here's my <a href="https://docs.google.com/document/d/1X7Gr1GUMXffbdur8Sy_SbPzyXvpBWAj-/edit?usp=sharing&ouid=108416457042447841176&rtpof=true&sd=true" target="_blank">resume</a>. Although you may want to spend some more time in here, first.
+
 ## About me
 I studied Software Development and Full Stack Web Development at Holberton, San Juan, Puerto Rico. I have a passion for problem solving, algorithms and math, and have spent most of my life studying and perfecting my math skills.
 Recently, my love for math and algorithms led me to become a Python & Pygame developer as a hobby (2019), then learn more about software development as a whole in the internet, and then enroll in Holberton to learn software development in general for 9 months, followed by 9 months of Full Stack Web Development (2022-2024).
