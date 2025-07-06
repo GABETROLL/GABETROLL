@@ -1,7 +1,10 @@
 # Hi there! I'm Gabriel Fernandez. I like building software.
 LinkedIn: https://www.linkedin.com/in/gab-fernandez/
+
 Resume: https://docs.google.com/document/d/1JKzoV_C0rA_loMX1rH0JyQbJ0BDHzRQB/edit?usp=sharing&ouid=108416457042447841176&rtpof=true&sd=true
+
 Email: gabriel.f.software.engineer@gmail.com
+
 Phone: (Puerto Rico) +1-787-980-6993
 
 ## About me
