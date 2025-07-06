@@ -5,7 +5,8 @@ Recently, my love for math and algorithms led me to become a Python & Pygame dev
 
 Currently, I am starting to learn about AWS. The latest project I've worked on is <a href="https://github.com/GABETROLL/TkinterSortingVisualizer" target="_blank">TkinterSortingVisualizer</a>, and I would like to see your ideas for it.
 
-I am looking for a job in Software Development, Web Development, or something similar. If you would like to have me work for you, here's my contact information:
+## I am looking for a job in Software Development, Web Development, or something similar.
+If you would like to have me work for you, here's my contact information:
 LinkedIn: https://www.linkedin.com/in/gab-fernandez/
 
 Resume: https://docs.google.com/document/d/1JKzoV_C0rA_loMX1rH0JyQbJ0BDHzRQB/edit?usp=sharing&ouid=108416457042447841176&rtpof=true&sd=true
@@ -13,3 +14,7 @@ Resume: https://docs.google.com/document/d/1JKzoV_C0rA_loMX1rH0JyQbJ0BDHzRQB/edi
 Email: gabriel.f.software.engineer@gmail.com
 
 Phone: (Puerto Rico) +1-787-980-6993
+
+Location: Fajardo, Puerto Rico
+
+I am willing to work both remote and onsite, however, at the moment, I am not willing to relocate. I am willing to travel up to 2 hours everyday.
